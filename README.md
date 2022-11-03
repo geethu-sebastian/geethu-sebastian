@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-👨🏽‍💻 I’m currently working on improving my techskill<br>👯 I’m looking to collaborate on Github<br>💬 Ask me about anything, I am happy to hel<br>🤝 Fun-Fact: Anything is possible;<br>📫 How to reach me: geethugspdev@gmail.com
+👨🏽‍💻 I’m currently working on improving my techskill<br>👯 I’m looking to collaborate on Github<br>💬 Ask me about anything, I am happy to help<br>🤝 Fun-Fact: Anything is possible;<br>📫 How to reach me: geethugspdev@gmail.com
 
 
 ## 🌐 Socials:

@@ -1,6 +1,6 @@
 # Hello, I'm Geethu Sebastian 👋
 
-### Web Developer | Aspiring Data Scientist & Machine Learning Enthusiast
+### Web Developer | Aspiring Data Scientist enthusiast
 
 ---
 
